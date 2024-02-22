@@ -1,4 +1,4 @@
-👋 Hi, I'm @sathvik-mn,
+👋 Hi, I'm Sathvik MAridasana Nagaraj,
 
 👀 I have a deep passion for data analysis and statistical modeling, with a particular talent for bringing data to life through compelling visualizations. My interests extend beyond mainstream data science to encompass astrophysics, archaeology, and the evolution of human civilization.
 
