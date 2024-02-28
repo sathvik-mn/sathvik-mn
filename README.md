@@ -10,7 +10,7 @@ Feel free to reach out to me at sathvikmn2022@gmail.com for any inquiries or opp
 
 Get to know more about me https://sathvik-mn.github.io/SathvikMN-Portfolio.github.io/index.html
 
-Fun fact: I endeavor to provide data-driven answers for every question posed to me. Oops, sorry, I can't help it!
+Fun fact: I endeavor to provide data-driven answers for every question posed to me. Sorry, I can't help it!
 
 <!---
 sathvik-mn/sathvik-mn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
