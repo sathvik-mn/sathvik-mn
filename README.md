@@ -6,7 +6,7 @@ Currently, I'm advancing my knowledge in Machine Learning & Statistical Modellin
 
 I'm open to collaborations that challenge me and push the boundaries of what we can achieve with data.
 
-Feel free to reach out to me at sathvikmn2022@gmail.com for any inquiries or opportunities to connect.
+Feel free to reach out to me at sathvikmn2022@gmail.com or sathvikmn98@gmail.com for any inquiries or opportunities to connect.
 
 Get to know more about me https://sathvik-mn.github.io/SathvikMN-Portfolio.github.io/index.html
 
