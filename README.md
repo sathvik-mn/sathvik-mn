@@ -6,10 +6,6 @@ Currently, I'm advancing my knowledge in Machine Learning & Statistical Modellin
 
 I'm open to collaborations that challenge me and push the boundaries of what we can achieve with data.
 
-Feel free to reach out to me at sathvikmn98@gmail.com or sathvik.m.nagaraj@gmail.com for any inquiries or opportunities to connect.
-
-Fun fact: I endeavor to provide data-driven answers for every question posed to me.
-
 <!---
 sathvik-mn/sathvik-mn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
